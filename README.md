@@ -17,6 +17,8 @@ Add database :
 
     http://localhost:8002
     
+    Username/Password : root/example
+    
     add database : company
     
     add table : users(id,name) 
